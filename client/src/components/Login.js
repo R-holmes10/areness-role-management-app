@@ -14,7 +14,7 @@ const Login = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const url = "http://localhost:8080/api/auth";
+      const url = "https://areness-rm-backend.onrender.com/api/auth";
       const response = await axios.post(url, data);
       console.log('Response Data:', response.data); 
     

@@ -20,7 +20,7 @@ const Signup = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const url = "http://localhost:8080/api/users";
+      const url = "https://areness-rm-backend.onrender.com/api/users";
       const { data: res } = await axios.post(url, data);
       alert(res.message);
       // Redirect to login page after successful signup
