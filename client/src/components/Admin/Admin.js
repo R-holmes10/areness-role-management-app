@@ -1,9 +1,11 @@
 import React from "react";
+import "./Admin.css";
+
 
 const Admin = () => {
   return (
     <div>
-      <h1>Hello, Admin! Welcome to Areness</h1>
+      <h1>Hello, Admin! Welcome to ARENESS</h1>
     </div>
   );
 };

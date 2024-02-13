@@ -1,5 +1,6 @@
 // components/Main.js
 import { useEffect } from "react";
+import "./Main.css";
 
 const Main = () => {
   const handleLogout = () => {
