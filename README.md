@@ -37,7 +37,7 @@ This project is a Role Management Page implemented in the MERN (MongoDB, Express
 
 ## Getting Started
 
-1. Clone the repository: `git clone `
+1. Clone the repository: `git clone https://github.com/R-holmes10/areness-role-management-app.git`
 2. Navigate to the project directory: `cd client` for Frontend) and `cd server` for Backend
 3. Install dependencies: `npm install`
 4. Set up the MongoDB database and update the connection details.
