@@ -1,2 +1,2 @@
-# areness-role-management-app
-Role Management System using MERN Stack
+# Role Management System using MERN Stack
+Switch to master branch to access the code.
